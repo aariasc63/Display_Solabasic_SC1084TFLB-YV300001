@@ -51,6 +51,4 @@ Esta experiencia demuestra que la ingeniería inversa no consiste únicamente en
 
 Nota de seguridad: cualquier prueba con componentes procedentes de un No Break debe realizarse con el módulo separado de la etapa de potencia y verificando previamente sus niveles eléctricos.
 
-¿En qué proyecto utilizarías este display?
 
-#Arduino #ArduinoUno #IngenieriaInversa #Electronica #SistemasEmbebidos #HT1621 #LCD #Hardware #OpenSource #DesarrolloDeHardware #SolaBasic
